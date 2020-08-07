@@ -16,14 +16,20 @@
 
 6️⃣ Build in data file & cfg can be used for Social Distancing
 
-### ⚫️ Visual representation of Algorithms 
+### ⚫️ Visual representation 
 
 1️⃣ Using Darknet
 
-❗️ Stock Video for Social Distancing 
+❗️ Stock Video for Face Mask Detection 
 
-![]()
+![](https://github.com/yashindulkar/YOLO-v3/blob/master/Videos/Stock%20Video.gif)
 
-❗️ YOLO for Social Distancing
+❗️ YOLO for Face Mask Detection
 
-![]()
+![](https://github.com/yashindulkar/YOLO-v3/blob/master/Videos/Darknet.gif)
+
+1️⃣ Using Deepsort
+
+❗️ YOLO for Face Mask Detection
+
+![](https://github.com/yashindulkar/YOLO-v3/blob/master/Videos/Deepsort.gif)
