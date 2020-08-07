@@ -28,7 +28,7 @@
 
 ![](https://github.com/yashindulkar/YOLO-v3/blob/master/Videos/Darknet.gif)
 
-1️⃣ Using Deepsort
+2️⃣ Using Deepsort
 
 ❗️ YOLO for Face Mask Detection
 
